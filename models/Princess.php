@@ -2,7 +2,7 @@
 namespace PhalconRest\Models;
 use \PhalconRest\Exceptions\HTTPException;
 
-class Princesses extends \Phalcon\Mvc\Model{
+class Princess extends \Phalcon\Mvc\Model{
 
 	/**
 	 * These set the values for soft deletion in the database (using a deleted 
